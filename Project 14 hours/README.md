@@ -65,11 +65,5 @@ The dataset includes:
 
 ---
 
-## Authors & Attribution
-
-Analysis and code by [Your Name]. Landing page screenshots and design elements are for educational and testing purposes only.
-
----
-
 > This project analyzes website user data to find key factors impacting conversion rates and provides recommendations for A/B testing and CRO based on data-driven insights.
 
